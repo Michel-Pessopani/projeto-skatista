@@ -38,12 +38,12 @@
 
 @media (max-width: 425px) {
     main .personagem .imagem {
-        height: auto;
+        height: auto;llo
     }
 
     .conteudo .logo {
-        width: 170px;
-        height: 75px;
+        width: 100px;
+        height: 35px;
     }
 
     .conteudo {
