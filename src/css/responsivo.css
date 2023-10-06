@@ -37,12 +37,8 @@
 }
 
 @media (max-width: 425px) {
-    main .personagem .imagem {
-        height: auto;llo
-    }
-
     .conteudo .logo {
-        width: 100px;
+        width: 130px;
         height: 35px;
     }
 
